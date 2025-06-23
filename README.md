@@ -25,6 +25,13 @@ Esta aplicación permite guardar y recuperar información personalizada del usua
 - ✔️ Limpiar todas las preferencias
 - ✔️ Interfaz intuitiva con campos y botones
 
+  ![image](https://github.com/user-attachments/assets/364674fb-a62e-4c6c-afde-9e8262f1bcc9)
+![image](https://github.com/user-attachments/assets/2c80c839-5321-4733-a94e-e50252613072)
+![image](https://github.com/user-attachments/assets/5ebbdb85-3185-4c6c-9801-ec6e553eb699)
+![image](https://github.com/user-attachments/assets/2d981359-a173-45f7-83bc-e6aab83c692a)
+![image](https://github.com/user-attachments/assets/d66f842a-5d85-486b-88e3-4583cdd23d1a)
+
+
 ## 🆕 Modificaciones Realizadas
 
 | Funcionalidad              | Descripción                                                                 |
