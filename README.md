@@ -49,6 +49,9 @@ Esta aplicación permite guardar y recuperar información personalizada del usua
 - SDK objetivo: API 34 (Android 14)
 - Kotlin 1.9.0
 
+  🙌 Créditos
+Desarrollado por: Manuel Flores
+
 ## 🛠️ Instalación
 
 1. Clona el repositorio:
